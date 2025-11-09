@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202587541124",
+    "project_id": "moneytrail-c5cd8",
+    "storage_bucket": "moneytrail-c5cd8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202587541124:android:2f77334800a170cd527cd1",
+        "android_client_info": {
+          "package_name": "com.xyz.moneytrail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdBrheZQK6Yx_UYb0iDZjWXZFwFcH0cdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
