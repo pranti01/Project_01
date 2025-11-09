@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#4978F2</color>
+    <color name="blue1">#2D5CD5</color>
+    <color name="btwn_blue_mint">#00bde9</color>
+    <color name="gray">#FF808080</color>
+    <color name="green">#F44336</color>
+    <color name="greeny">#01917C</color>
+    <color name="ic_launcher_background">#A9E9FF</color>
+    <color name="mint">#8CEBCA</color>
+    <color name="orange">#FFFFA500</color>
+    <color name="pink">#FFFFC0CB</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#854DD5</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#FFFF0000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MoneyTrail</string>
+    <string name="gcm_defaultSenderId" translatable="false">202587541124</string>
+    <string name="google_api_key" translatable="false">AIzaSyAdBrheZQK6Yx_UYb0iDZjWXZFwFcH0cdQ</string>
+    <string name="google_app_id" translatable="false">1:202587541124:android:2f77334800a170cd527cd1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAdBrheZQK6Yx_UYb0iDZjWXZFwFcH0cdQ</string>
+    <string name="google_storage_bucket" translatable="false">moneytrail-c5cd8.firebasestorage.app</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="project_id" translatable="false">moneytrail-c5cd8</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <style name="DrawerIconStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@android:color/white</item>
+    </style>
+    <style name="Theme.MoneyTrail" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        
+        <item name="drawerArrowStyle">@style/DrawerIconStyle</item>
+        
+
+    </style>
+</resources>
